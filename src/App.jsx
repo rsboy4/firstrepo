@@ -9,7 +9,8 @@ const App = () => {
       <h1 style={styles.text}>
         {`Music makes coding feel seamless. It's the rhythm in the background, a
         groove while I build. But sometimes… maybe, just maybe, I get carried
-        away. That's why I end up committing things I shouldn't`}.
+        away. That's why I end up committing things I shouldn't. 
+        Anyway, you should find footage of my room here.`}.
       </h1>
       <div style={styles.videoContainer}>
      <Iframe videoUrl={videoURL}></Iframe> 
